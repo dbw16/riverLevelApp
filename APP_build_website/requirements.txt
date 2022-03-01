@@ -1,0 +1,5 @@
+git+https://github.com/dbw16/riverLevelsModual.git
+bokeh
+boto3
+paramiko
+scp
